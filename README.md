@@ -6,12 +6,12 @@ Repository: [https://github.com/sonnysangha/5-day-challenge-ai-agent-saas-challe
 
 ## Features
 
-- **AI Video Analysis** - Deep insights into your video content with advanced AI analysis
-- **Smart Transcription** - Accurate transcriptions of your videos for subtitles or repurposing content
-- **Thumbnail Generation** - AI-generated eye-catching thumbnails to boost click-through rates
-- **Title Generation** - SEO-optimized title suggestions that resonate with your audience
-- **Shot Script** - Detailed instructions to recreate viral videos with shooting techniques and editing tips
-- **AI Agent Conversations** - Engage in discussions about content strategy with your AI agent companion
+- 📊**AI Video Analysis** - Deep insights into your video content with advanced AI analysis
+- 📝**Smart Transcription** - Accurate transcriptions of your videos for subtitles or repurposing content
+- 🎨**Thumbnail Generation** - AI-generated eye-catching thumbnails to boost click-through rates
+- 🔍**Title Generation** - SEO-optimized title suggestions that resonate with your audience
+- 🎬**Shot Script** - Detailed instructions to recreate viral videos with shooting techniques and editing tips
+- 🤖**AI Agent Conversations** - Engage in discussions about content strategy with your AI agent companion
 
 ## Tech Stack
 
